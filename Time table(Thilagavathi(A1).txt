@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TIME TABLE</title>
+<body>
+    
+    <h1>TIME TABLE</h1>
+    <table border="10" cellspacing="0" align="center">
+        <!--<caption>Timetable</caption>-->
+        <tr>
+            <td align="center" height="50"
+                width="100"><br>
+                <b>Day/Period</b></br>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>I<br>9:00-:9:50</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>II<br>9:50-10:40</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>III<br>11:00-11:50</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>IV<br>11:50-12:40</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>12:40-1:30</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>V<br>1:00-2:20</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>VI<br>2:20-3:10</b>
+            </td>
+            <td align="center" height="50"
+                width="100">
+                <b>VII<br>3:10-4:00</b>
+            </td>
+             <td align="center" height="50"
+                width="100">
+                <b>VII<br>4:00-4:40</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Monday</b></td>
+            <td align="center" height="50">CC</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">CNS</td>
+           
+            <td rowspan="6" align="center" height="50">
+                <h2>L<br>U<br>N<br>C<br>H</h2>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">HR</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">CC</td>    
+            </td>
+           
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Tuesday</b>
+            </td>
+           
+            <td align="center" height="50">IOT</td>
+            <td align="center" height="50">CC</td>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">CNS</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">IOT</td>    
+            </td>
+
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Wednesday</b>
+            </td>
+            <td align="center" height="50">HR</td>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">IOT</td>
+            <td align="center" height="50">CC</td>
+             <td align="center" height="50">POM</td>
+            <td align="center" height="50">CNS</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">HR</td>
+            
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Thursday</b>
+            </td>
+            <td align="center" height="50">CNS</td>
+            <td align="center" height="50">HR</td>
+            <td align="center" height="50">IOT</td>
+            <td align="center" height="50">IOT</td>
+            <td align="center" height="50">CC</td>
+            <td align="center" height="50">HR</td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">CNS</td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Friday</b>
+            </td>
+           
+            </td>
+            <td align="center" height="50">POM</td>
+            <td align="center" height="50">HR</td>
+            <td align="center" height="50">IOT</td>
+            <td align="center" height="50">IOT</td>
+            <td colspan="3" align="center"
+                height="50">CLOUD LAB
+            </td>
+             <td align="center" height="50">POM</td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Saturday</b>
+            </td>
+            <td align="center" height="50">ED</td>
+            <td align="center" height="50">CC</td>
+            <td align="center" height="50">CNS</td>
+            <td align="center" height="50">CC</td>
+            <td colspan="3" align="center"
+                height="50">SECURITY LAB
+            </td>
+            <td align="center" height="50">POM</td>
+            
+        </tr>
+    </table>
+</head>
+</body>
+ 
+</html>
